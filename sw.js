@@ -2,10 +2,11 @@
 const CACHE_NAME = 'saisonkalender-v1';
 const urlsToCache = [
   '.',
-  'index.html',
-  'manifest.json',
+  'favicon.ico',
   'icon-192.png',
-  'icon-512.png'
+  'icon-512.png',
+  'index.html',
+  'manifest.json'
 ];
 
 self.addEventListener('install', event => {
