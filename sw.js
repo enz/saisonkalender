@@ -3,6 +3,7 @@ const CACHE_NAME = 'saisonkalender-v4';
 const urlsToCache = [
   '.',
   'favicon.ico',
+  'icon.svg',
   'icon-192.png',
   'icon-512.png',
   'index.html',
