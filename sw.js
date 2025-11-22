@@ -1,8 +1,7 @@
 // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
-const CACHE_NAME = 'saisonkalender-v4';
+const CACHE_NAME = 'saisonkalender-v5';
 const urlsToCache = [
   '.',
-  'favicon.ico',
   'icon.svg',
   'icon-192.png',
   'icon-512.png',
