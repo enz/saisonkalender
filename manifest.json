@@ -1,5 +1,5 @@
 {
-  "short_name": "Saisonkalender",
+  "name": "Saisonkalender",
   "lang": "de",
   "start_url": ".",
   "scope": "/",
