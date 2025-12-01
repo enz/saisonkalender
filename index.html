@@ -177,7 +177,7 @@ for(let m in monthMap){
 }
 
 const today = new Date();
-const currentMonth = today.toLocaleString("de-DE",{month:"short"});
+const currentMonth = today.toLocaleString("en-US",{month:"short"});
 monthSelect.value = currentMonth.charAt(0).toUpperCase() + currentMonth.slice(1,3);
 
 function updateList(){
